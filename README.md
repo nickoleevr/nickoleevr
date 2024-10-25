@@ -1,11 +1,11 @@
-## Olá, Eu sou a Nickole 🩷
+## Olá, meu nome é Nickole🩷
 
 
 - 🔭 Hoje trabalho como Desenvolvedora Full Stack, atuando com PHP, Laravel, JavaScript, jQuery e TypeScript
 
 <div>
 <div> 
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickoleevr&layout=compact&title_color=#eba5cc"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickoleevr&layout=donut"/>
   </div>
   </br>
   <div>
