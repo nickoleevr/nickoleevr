@@ -1,4 +1,4 @@
-## Olá, meu nome é Nickole🩷
+## Olá, meu nome é Nickole
 
 
 - 🔭 Hoje trabalho como Desenvolvedora Full Stack, atuando com PHP, Laravel, JavaScript, ReactJS e TypeScript
